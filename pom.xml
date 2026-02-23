@@ -53,7 +53,7 @@
             <configuration>
                 <archive>
                     <manifestEntries>
-                        <Main-Class>com.example.App</Main-Class>
+                        <Main-Class>com.example.mainClass</Main-Class>
                     </manifestEntries>
                 </archive>
             </configuration>
